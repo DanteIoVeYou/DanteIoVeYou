@@ -3,4 +3,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanteIoVeYou&layout=compact&langs_count=8" />
 
 
-
+### Research Interests:
+- Computational Chemistry
+- Molecular Dynamic Simulation based on ML
+- Virtual Games Development
