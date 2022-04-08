@@ -7,7 +7,6 @@
 - Computational Chemistry
 - Molecular Dynamic Simulation based on ML
 - Virtual Games Development
-- C/C++ Development
 
 
 
